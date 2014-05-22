@@ -1,5 +1,5 @@
 {
-  "name": "node_maxclient_test",
+  "name": "node_maxSockets_test",
   "version": "0.0.0",
   "description": "",
   "main": "client.js",
